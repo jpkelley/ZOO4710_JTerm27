@@ -17,7 +17,7 @@ As ecologists, we want more than statistical associations or accurate prediction
 
 Statistical models can reveal patterns, explain variation, and predict ecological outcomes. Yet, predicting what happens is not the same as knowing what would happen if we the system was perturbed. Statistical significance, superb predictive performance, or a model favored by AIC does not, by itself, establish cause and effect. Mistaking association for causation --what most ecologists do, believe it or not-- can lead to misguided inference, including misguided conservation decisions.
 
-This course explores the gap between what our analyses show and what we conclude from them. Through published studies, causal diagrams, and interactive investigations, students will learn to identify hidden assumptions, evaluate competing explanations, and determine which scientific conclusions the evidence actually supports.
+This course explores the gap between what our analyses show and what we conclude from them. Through published studies, causal diagrams, and interactive investigations, you will learn to identify hidden assumptions, evaluate competing explanations, and determine which scientific conclusions the evidence actually supports.
 
 ## Essential course information
 
@@ -33,12 +33,12 @@ This course explores the gap between what our analyses show and what we conclude
 | **Prerequisites** | LIFE-1010 **and** one 2000-level LIFE course (e.g., LIFE-2022 or LIFE-2023); enrollment also possible with instructor permission |
 
 ::: {.callout-note title="A short, flexible January course"}
-The course features **10 asynchronous instructional modules**, scheduled over **January 4–15** (not including the intervening weekend, of course), before the spring semester begins. Students can work at their own pace, with no scheduled class meetings.
+The course features **10 asynchronous instructional modules**, scheduled over **January 4–15** (not including the intervening weekend, of course), before the spring semester begins. You can work at your own pace, with no scheduled class meetings.
 
-The remainder of J-Term provides flexibility to complete the final project, an *Evidence Audit* project. Students are encouraged to finish coursework before spring classes begin on January 19, but the official J-Term II period extends through **January 29**. Specific deadlines will be provided in WyoCourses.
+The remainder of J-Term provides flexibility to complete the final project, an *Evidence Audit* project. You are encouraged to finish coursework before spring classes begin on January 19, but the official J-Term II period extends through **January 29**. Specific deadlines will be provided in WyoCourses.
 :::
 
-## What students will explore
+## What you will explore
 
 - How scientists move from **observations and statistical associations to causal explanations**.
 - Why **prediction and causal inference are different questions**, even when they use similar statistical methods.
@@ -56,7 +56,7 @@ Each module is organized around a focused scientific question and practical inve
 3. **Check your reasoning:** Complete brief, low-stakes (i.e. low stress) quizzes and get explanatory feedback.
 4. **Apply:** Develop a cumulative *Evidence Audit* that critically evaluates the evidence and assumptions behind an ecological claim (that you pick!)
 
-Students with existing research projects are encouraged to apply course concepts to their own work, but **no prior research experience or personal dataset is required** to take full advantage of this course. Published studies, examples, and datasets will be provided.
+If you have an existing research projects, you are encouraged to apply course concepts to your own work, but **no prior research experience or personal dataset is required** to take full advantage of this course. Published studies, examples, and datasets will be provided.
 
 ## Draft module calendar
 

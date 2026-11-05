@@ -89,7 +89,6 @@ These skills matter throughout ecology, from testing fundamental theories about 
 
 This course on causal inference helps you develop the ability to make that fundamental distinction.
 
-
 ## Enrollment and questions
 
 Find **ZOO 4710-80 (CRN 25371)** in the University of Wyoming registration system. If you have a question about prerequisites, suitability for your degree program, or permission to enroll, contact **[Dr. Patrick Kelley](mailto:jkelle24@uwyo.edu)**.

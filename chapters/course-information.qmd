@@ -1,0 +1,49 @@
+---
+title: "Course Information and FAQs"
+---
+
+## Who is this course for?
+
+This course is designed for majors in **Zoology, Physiology, Wildlife and Fisheries Biology and Management (WFBM), Biology, and Environmental and Natural Resources (ENR)** who want to better evaluate scientific evidence and causal claims.
+
+**Prerequisites from the flyer:** LIFE-1010 and one 2000-level LIFE course (such as LIFE-2022 or LIFE-2023). Enrollment may also be possible **with instructor permission**.
+
+## What will I be able to do?
+
+The course is intended to help students:
+
+- State a specific causal question, exposure, outcome, and intervention contrast.
+- Recognize how measurement, detection, and selection can limit an ecological inference.
+- Build and interpret a causal diagram, including confounders, mediators, and colliders.
+- Explain why a well-fitting predictive model does not necessarily identify a causal effect.
+- Evaluate the assumptions needed to make a defensible claim about an ecological intervention.
+
+## Do I need an ongoing research project?
+
+**No.** Students may apply course ideas to an existing project, but relevant examples and published ecological studies will be available.
+
+## Will there be scheduled class meetings?
+
+**No.** The course is fully asynchronous, with ten self-paced instructional modules and a flexible period for project completion. The [calendar](calendar.qmd) provides suggested pacing rather than required daily meetings.
+
+## Do I need to know R?
+
+The introductory plan emphasizes conceptual causal reasoning and accessible diagrams; **required R programming is not currently planned**. Optional analysis extensions may be provided. Consult the finalized syllabus for any changes.
+
+## What kinds of assignments are planned?
+
+The current draft design includes short instructional activities, autograded Canvas knowledge checks, guided critique of published studies, and a cumulative **Evidence Audit**. Exact grading and submission requirements will appear in WyoCourses.
+
+## How will AI be treated?
+
+The course is designed to develop students' **own** ability to recognize sound and unsound causal explanations. The finalized syllabus will specify permitted AI uses. The central expectation is that students independently develop the reasoning demonstrated in their submitted assessments.
+
+## How do I register?
+
+Look for **ZOO 4710-80 (Special Topics), CRN 25371**, during University of Wyoming registration. Contact [Dr. Patrick Kelley](mailto:jkelle24@uwyo.edu) if you have questions about prerequisites or permission to enroll.
+
+::: {.callout-warning title="Public preview, not the official syllabus"}
+This webpage describes a **draft** course plan. The finalized syllabus and WyoCourses contain the authoritative policies, grading standards, accommodation procedures, and submission deadlines.
+:::
+
+[Return to the course overview](../index.qmd).

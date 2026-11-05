@@ -1,0 +1,204 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scientific Evidence and Causal Inference",
+    "section": "",
+    "text": "Essential course information\nAs ecologists, we want more than statistical associations or accurate predictions. We want to understand why ecological patterns occur and what we can do to change them. Yet, despite our increasingly sophisticated statistical tools, are we actually answering these causal questions?\nStatistical models can reveal patterns, explain variation, and predict ecological outcomes. Yet, predicting what happens is not the same as knowing what would happen if we the system was perturbed. Statistical significance, superb predictive performance, or a model favored by AIC does not, by itself, establish cause and effect. Mistaking association for causation –what most ecologists do, believe it or not– can lead to misguided inference, including misguided conservation decisions.\nThis course explores the gap between what our analyses show and what we conclude from them. Through published studies, causal diagrams, and interactive investigations, students will learn to identify hidden assumptions, evaluate competing explanations, and determine which scientific conclusions the evidence actually supports.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#essential-course-information",
+    "href": "index.html#essential-course-information",
+    "title": "Scientific Evidence and Causal Inference",
+    "section": "",
+    "text": "Course\nZOO 4710-80 (Special Topics)\n\n\nCRN\n25371\n\n\nCredits\n3\n\n\nTerm\nJ-Term II, January 4–29, 2027\n\n\nFormat\nFully asynchronous online, with no scheduled class meetings\n\n\nInstructor\nDr. Patrick Kelley (jkelle24@uwyo.edu)\n\n\nIntended students\nZoology, Physiology, Wildlife and Fisheries Biology and Management (WFBM), Biology, and Environmental and Natural Resources (ENR) majors\n\n\nPrerequisites\nLIFE-1010 and one 2000-level LIFE course (e.g., LIFE-2022 or LIFE-2023); enrollment also possible with instructor permission\n\n\n\n\n\n\n\n\n\nNoteA short, flexible January course\n\n\n\nThe course features 10 asynchronous instructional modules, scheduled over January 4–15 (not including the intervening weekend, of course), before the spring semester begins. Students can work at their own pace, with no scheduled class meetings.\nThe remainder of J-Term provides flexibility to complete the final project, an Evidence Audit project. Students are encouraged to finish coursework before spring classes begin on January 19, but the official J-Term II period extends through January 29. Specific deadlines will be provided in WyoCourses.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#what-students-will-explore",
+    "href": "index.html#what-students-will-explore",
+    "title": "Scientific Evidence and Causal Inference",
+    "section": "What students will explore",
+    "text": "What students will explore\n\nHow scientists move from observations and statistical associations to causal explanations.\nWhy prediction and causal inference are different questions, even when they use similar statistical methods.\nHow causal diagrams (DAGs) reveal hidden assumptions, confounding, and other sources of bias.\nWhy statistical significance, model fit, and AIC-based multi-model selection do not, by themselves, establish cause and effect.\nHow research design, adjustment, and g-computation can help estimate causal effects under explicit assumptions.\nHow to assess whether scientific evidence supports conservation interventions and environmental management decisions.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#what-does-the-course-look-like",
+    "href": "index.html#what-does-the-course-look-like",
+    "title": "Scientific Evidence and Causal Inference",
+    "section": "What does the course look like?",
+    "text": "What does the course look like?\nEach module is organized around a focused scientific question and practical investigation rather than a scheduled class meeting. All of these will be completed on your own at your own pace.\n\nLearn: Explore the key concepts through short video lectures, readings, and guided examples.\nInvestigate: Examine real ecological studies, construct causal diagrams, and work through interactive challenges.\nCheck your reasoning: Complete brief, low-stakes (i.e. low stress) quizzes and get explanatory feedback.\nApply: Develop a cumulative Evidence Audit that critically evaluates the evidence and assumptions behind an ecological claim (that you pick!)\n\nStudents with existing research projects are encouraged to apply course concepts to their own work, but no prior research experience or personal dataset is required to take full advantage of this course. Published studies, examples, and datasets will be provided.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#draft-module-calendar",
+    "href": "index.html#draft-module-calendar",
+    "title": "Scientific Evidence and Causal Inference",
+    "section": "Draft module calendar",
+    "text": "Draft module calendar\n\n\n\n\n\n\n\n\nDate\nModule\nTopic\n\n\n\n\nJan 4\n1\nScientific Evidence: From Questions to Claims\n\n\nJan 5\n2\nEcological Data: Measurement, Sampling, and Detection\n\n\nJan 6\n3\nCausal Diagrams and Confounding\n\n\nJan 7\n4\nMediators, Colliders, and Competing Explanations\n\n\nJan 8\n5\nSelection Bias and Hidden Sources of Bias\n\n\nJan 11\n6\nResearch Design and Causal Identification\n\n\nJan 12\n7\nAdjustment and G-Computation\n\n\nJan 13\n8\nCausal Inference Across Time and Space\n\n\nJan 14\n9\nWhen Models Mislead: Prediction, AIC, and Causation\n\n\nJan 15\n10\nFrom Scientific Evidence to Environmental Decisions\n\n\nJan 16–18\n—\nOpportunity to complete the final project before spring semester\n\n\nJan 19–29\n—\nFlexible final project completion period\n\n\n\nThese dates are general pacing milestones. These do not represent required synchronous meetings. There are no instructional modules scheduled after January 15.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#why-does-studying-causality-matter",
+    "href": "index.html#why-does-studying-causality-matter",
+    "title": "Scientific Evidence and Causal Inference",
+    "section": "Why does studying causality matter?",
+    "text": "Why does studying causality matter?\nEcology is fundamentally a science of why?. We want to understand why species occur where they do, what drives animal behavior, how organisms interact, and why ecosystems change over time. These questions are about causal processes; they are not simply statistical patterns.\nThe central challenge is that ecological systems are highly complex. Multiple processes can produce similar observed patterns, and the available evidence rarely distinguishes among them automatically. Understanding causality requires us to consider competing explanations, examine underlying assumptions, and recognize what additional evidence would help make sense of uncertainty.\nThese skills matter throughout ecology, from testing fundamental theories about the natural world to evaluating conservation strategies. An incorrect or poorly supported causal explanation can misdirect future research, reinforce flawed scientific conclusions, or lead to ineffective or irresponsible management decisions.\n\nThe most important question is not simply whether an explanation fits the data, but whether the evidence justifies believing it.\n\nThis course on causal inference helps you develop the ability to make that fundamental distinction.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Overview</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#enrollment-and-questions",
+    "href": "index.html#enrollment-and-questions",
+    "title": "Scientific Evidence and Causal Inference",
+    "section": "Enrollment and questions",
+    "text": "Enrollment and questions\nFind ZOO 4710-80 (CRN 25371) in the University of Wyoming registration system. If you have a question about prerequisites, suitability for your degree program, or permission to enroll, contact Dr. Patrick Kelley.\nDownload the course flyer (PDF)\n\n\n\n\n\n\nTipAbout this website\n\n\n\nThis is a public course preview. Dates, assignments, assessment requirements, and policies are drafts until finalized in the official syllabus and WyoCourses. The instructional chapters will be added in December 2026; the course will be officially launched on 2 January 2027.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Overview</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/calendar.html",
+    "href": "chapters/calendar.html",
+    "title": "Draft Course Calendar",
+    "section": "",
+    "text": "Instructional modules",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Draft Course Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/calendar.html#instructional-modules",
+    "href": "chapters/calendar.html#instructional-modules",
+    "title": "Draft Course Calendar",
+    "section": "",
+    "text": "Suggested date\nModule\nTopic\nIndicative learning task\n\n\n\n\nMonday, Jan 4\n1\nScientific Evidence: From Questions to Claims\nDistinguish description, prediction, and causal questions; specify a causal contrast\n\n\nTuesday, Jan 5\n2\nEcological Data: Measurement, Sampling, and Detection\nIdentify how measurement and sampling influence what the data can tell us\n\n\nWednesday, Jan 6\n3\nCausal Diagrams and Confounding\nDraw and interpret a directed acyclic graph (DAG)\n\n\nThursday, Jan 7\n4\nMediators, Colliders, and Competing Explanations\nCompare plausible causal structures and identify inappropriate adjustments\n\n\nFriday, Jan 8\n5\nSelection Bias and Hidden Sources of Bias\nIdentify potential selection mechanisms and threats to interpretation\n\n\nMonday, Jan 11\n6\nResearch Design and Causal Identification\nCompare designs and describe identification assumptions\n\n\nTuesday, Jan 12\n7\nAdjustment and G-Computation\nReason from an adjustment set to intervention-specific predictions\n\n\nWednesday, Jan 13\n8\nCausal Inference Across Time and Space\nConsider temporal and spatial sources of bias and nontransferability\n\n\nThursday, Jan 14\n9\nWhen Models Mislead: Prediction, AIC, and Causation\nEvaluate claims based on model fit or variable selection\n\n\nFriday, Jan 15\n10\nFrom Scientific Evidence to Environmental Decisions\nSynthesize the evidence and assess proposed interventions",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Draft Course Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/calendar.html#flexible-project-period",
+    "href": "chapters/calendar.html#flexible-project-period",
+    "title": "Draft Course Calendar",
+    "section": "Flexible project period",
+    "text": "Flexible project period\nJanuary 18–22: Suggested period to finish and refine the cumulative Evidence Audit. The January 19 start of the regular spring term makes early completion especially desirable for students with overlapping commitments.\nJanuary 25–29: Remaining official J-Term II period. The specific use of these dates and any final submission deadline will be confirmed in WyoCourses. Do not treat this draft page as an assignment deadline notice.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Draft Course Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/calendar.html#a-typical-instructional-module",
+    "href": "chapters/calendar.html#a-typical-instructional-module",
+    "title": "Draft Course Calendar",
+    "section": "A typical instructional module",
+    "text": "A typical instructional module\nModules are expected to contain a compact Quarto lesson, selected reading or excerpt, a guided causal reasoning challenge, a short Canvas knowledge check, and one incremental contribution to the cumulative Evidence Audit. Programming is not intended to be required for the introductory activities; use of R may be offered as an optional extension.\nPlanning note: Estimated daily effort, final submission rules, and assessment weights are under development. The final syllabus will provide the authoritative requirements.\nReturn to the course overview.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Draft Course Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/course-information.html",
+    "href": "chapters/course-information.html",
+    "title": "Course Information and FAQs",
+    "section": "",
+    "text": "Who is this course for?\nThis course is designed for majors in Zoology, Physiology, Wildlife and Fisheries Biology and Management (WFBM), Biology, and Environmental and Natural Resources (ENR) who want to better evaluate scientific evidence and causal claims.\nPrerequisites from the flyer: LIFE-1010 and one 2000-level LIFE course (such as LIFE-2022 or LIFE-2023). Enrollment may also be possible with instructor permission.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Information and FAQs</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/course-information.html#what-will-i-be-able-to-do",
+    "href": "chapters/course-information.html#what-will-i-be-able-to-do",
+    "title": "Course Information and FAQs",
+    "section": "What will I be able to do?",
+    "text": "What will I be able to do?\nThe course is intended to help students:\n\nState a specific causal question, exposure, outcome, and intervention contrast.\nRecognize how measurement, detection, and selection can limit an ecological inference.\nBuild and interpret a causal diagram, including confounders, mediators, and colliders.\nExplain why a well-fitting predictive model does not necessarily identify a causal effect.\nEvaluate the assumptions needed to make a defensible claim about an ecological intervention.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Information and FAQs</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/course-information.html#do-i-need-an-ongoing-research-project",
+    "href": "chapters/course-information.html#do-i-need-an-ongoing-research-project",
+    "title": "Course Information and FAQs",
+    "section": "Do I need an ongoing research project?",
+    "text": "Do I need an ongoing research project?\nNo. Students may apply course ideas to an existing project, but relevant examples and published ecological studies will be available.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Information and FAQs</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/course-information.html#will-there-be-scheduled-class-meetings",
+    "href": "chapters/course-information.html#will-there-be-scheduled-class-meetings",
+    "title": "Course Information and FAQs",
+    "section": "Will there be scheduled class meetings?",
+    "text": "Will there be scheduled class meetings?\nNo. The course is fully asynchronous, with ten self-paced instructional modules and a flexible period for project completion. The calendar provides suggested pacing rather than required daily meetings.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Information and FAQs</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/course-information.html#do-i-need-to-know-r",
+    "href": "chapters/course-information.html#do-i-need-to-know-r",
+    "title": "Course Information and FAQs",
+    "section": "Do I need to know R?",
+    "text": "Do I need to know R?\nThe introductory plan emphasizes conceptual causal reasoning and accessible diagrams; required R programming is not currently planned. Optional analysis extensions may be provided. Consult the finalized syllabus for any changes.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Information and FAQs</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/course-information.html#what-kinds-of-assignments-are-planned",
+    "href": "chapters/course-information.html#what-kinds-of-assignments-are-planned",
+    "title": "Course Information and FAQs",
+    "section": "What kinds of assignments are planned?",
+    "text": "What kinds of assignments are planned?\nThe current draft design includes short instructional activities, autograded Canvas knowledge checks, guided critique of published studies, and a cumulative Evidence Audit. Exact grading and submission requirements will appear in WyoCourses.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Information and FAQs</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/course-information.html#how-will-ai-be-treated",
+    "href": "chapters/course-information.html#how-will-ai-be-treated",
+    "title": "Course Information and FAQs",
+    "section": "How will AI be treated?",
+    "text": "How will AI be treated?\nThe course is designed to develop students’ own ability to recognize sound and unsound causal explanations. The finalized syllabus will specify permitted AI uses. The central expectation is that students independently develop the reasoning demonstrated in their submitted assessments.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Information and FAQs</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/course-information.html#how-do-i-register",
+    "href": "chapters/course-information.html#how-do-i-register",
+    "title": "Course Information and FAQs",
+    "section": "How do I register?",
+    "text": "How do I register?\nLook for ZOO 4710-80 (Special Topics), CRN 25371, during University of Wyoming registration. Contact Dr. Patrick Kelley if you have questions about prerequisites or permission to enroll.\n\n\n\n\n\n\nWarningPublic preview, not the official syllabus\n\n\n\nThis webpage describes a draft course plan. The finalized syllabus and WyoCourses contain the authoritative policies, grading standards, accommodation procedures, and submission deadlines.\n\n\nReturn to the course overview.",
+    "crumbs": [
+      "Course Information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Course Information and FAQs</span>"
+    ]
+  }
+]

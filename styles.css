@@ -1,0 +1,16 @@
+/* Compact theme refinements inspired by the ZOO5500 Quarto book. */
+:root { --course-ink: #143d45; --course-accent: #19766f; --course-mist: #e9f3ef; }
+#quarto-content { line-height: 1.6; }
+.sidebar-title, .book-title { color: var(--course-ink); }
+.sidebar nav[role=doc-toc] a, .sidebar nav[role=doc-toc] a:visited { text-decoration: none; }
+a { color: var(--course-accent); }
+a:hover { color: #12534f; }
+.quarto-title h1.title { color: var(--course-ink); letter-spacing: -0.02em; }
+.course-hero { display: block; width: 100%; height: auto; border-radius: 12px; margin: 0.2rem 0 1.6rem; box-shadow: 0 2px 10px rgba(18, 61, 64, .08); }
+.lead-intro { background: var(--course-mist); border-left: 4px solid var(--course-accent); border-radius: 4px; padding: .85rem 1.1rem; margin: 0 0 1.2rem; font-size: 1.14rem; line-height: 1.5; }
+h2, h3 { color: var(--course-ink); }
+h2 { margin-top: 2rem; padding-bottom: .2rem; border-bottom: 1px solid #dde7e5; }
+table { font-size: .96rem; }
+.btn-outline-primary { border-color: var(--course-accent); color: var(--course-accent); }
+.btn-outline-primary:hover { background: var(--course-accent); border-color: var(--course-accent); color: white; }
+@media (max-width: 680px) { .lead-intro { font-size: 1.03rem; padding: .7rem .85rem; } table { font-size: .9rem; } .course-hero { border-radius: 7px; } }

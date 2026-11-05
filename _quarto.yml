@@ -1,0 +1,46 @@
+# Quarto book starter for ZOO 4710-80 (January 2027)
+# Render locally with: quarto render
+# Publish rendered /docs folder using GitHub Pages (branch main, folder /docs).
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - assets/ZOO4710-80_course_flyer.pdf
+
+book:
+  title: "Scientific Evidence and Causal Inference"
+  subtitle: "ZOO 4710-80 · J-Term II · 04-29 January 2027"
+  author: "Instructor: Dr. Patrick Kelley"
+  search: true
+  page-navigation: true
+  sidebar:
+    style: docked
+    background: light
+    collapse-level: 1
+  chapters:
+    - index.qmd
+    - part: "Course Information"
+      chapters:
+        - chapters/calendar.qmd
+        - chapters/course-information.qmd
+    # When lessons are ready, uncomment the following block and add their paths:
+    # - part: "Instructional Modules"
+    #   chapters:
+    #     - chapters/modules/01_evidence_and_estimands.qmd
+  page-footer:
+    left: "ZOO 4710-80 · University of Wyoming · J-Term II 2027"
+    right: "Draft course information; final details announced later."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+    number-sections: false
+
+execute:
+  freeze: auto

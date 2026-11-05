@@ -1,0 +1,37 @@
+---
+title: "Draft Course Calendar"
+subtitle: "Ten instructional modules · January 2027"
+---
+
+::: {.callout-note title="Self-paced, not ten required meeting days"}
+Each date is a **suggested day** for progressing through a module, not a scheduled live session. This calendar is provisional. **J-Term II officially runs January 4–29, 2027**; the instructor will publish binding deadlines in WyoCourses.
+:::
+
+## Instructional modules
+
+| Suggested date | Module | Topic | Indicative learning task |
+|:--|:--:|:--|:--|
+| Monday, Jan 4 | 1 | Scientific Evidence: From Questions to Claims | Distinguish description, prediction, and causal questions; specify a causal contrast |
+| Tuesday, Jan 5 | 2 | Ecological Data: Measurement, Sampling, and Detection | Identify how measurement and sampling influence what the data can tell us |
+| Wednesday, Jan 6 | 3 | Causal Diagrams and Confounding | Draw and interpret a directed acyclic graph (DAG) |
+| Thursday, Jan 7 | 4 | Mediators, Colliders, and Competing Explanations | Compare plausible causal structures and identify inappropriate adjustments |
+| Friday, Jan 8 | 5 | Selection Bias and Hidden Sources of Bias | Identify potential selection mechanisms and threats to interpretation |
+| Monday, Jan 11 | 6 | Research Design and Causal Identification | Compare designs and describe identification assumptions |
+| Tuesday, Jan 12 | 7 | Adjustment and G-Computation | Reason from an adjustment set to intervention-specific predictions |
+| Wednesday, Jan 13 | 8 | Causal Inference Across Time and Space | Consider temporal and spatial sources of bias and nontransferability |
+| Thursday, Jan 14 | 9 | When Models Mislead: Prediction, AIC, and Causation | Evaluate claims based on model fit or variable selection |
+| Friday, Jan 15 | 10 | From Scientific Evidence to Environmental Decisions | Synthesize the evidence and assess proposed interventions |
+
+## Flexible project period
+
+**January 18–22:** Suggested period to finish and refine the cumulative **Evidence Audit**. The January 19 start of the regular spring term makes early completion especially desirable for students with overlapping commitments.
+
+**January 25–29:** Remaining official J-Term II period. The specific use of these dates and any final submission deadline will be confirmed in WyoCourses. Do not treat this draft page as an assignment deadline notice.
+
+## A typical instructional module
+
+Modules are expected to contain a compact Quarto lesson, selected reading or excerpt, a guided causal reasoning challenge, a short Canvas knowledge check, and one incremental contribution to the cumulative Evidence Audit. Programming is **not intended to be required** for the introductory activities; use of R may be offered as an optional extension.
+
+**Planning note:** Estimated daily effort, final submission rules, and assessment weights are under development. The final syllabus will provide the authoritative requirements.
+
+[Return to the course overview](../index.qmd).
